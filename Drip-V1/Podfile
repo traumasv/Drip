@@ -1,0 +1,17 @@
+source 'http://github.com/CocoaPods/specs.git'
+platform :ios, '9.0'
+
+target 'Drip-V1' do
+project 'Drip-V1'
+  use_frameworks!
+
+    	pod 'FirebaseUI'
+	pod 'Firebase/Core'
+    	pod 'Firebase/Auth'
+	pod 'Firebase/Database'
+	pod 'Firebase/Firestore'
+	pod 'Reachability'
+
+
+end
+
