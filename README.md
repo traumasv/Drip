@@ -13,8 +13,7 @@ __A Simpler Way to Get Morning Coffee__
 
 
 ## Choose Options
-<img src="./drip_screenshots/options.png" width="120">
-<img src="./drip_screenshots/options_selected.png" width="120">
+<img src="./drip_screenshots/options.png" width="120"> <img src="./drip_screenshots/options_selected.png" width="120">
 
 
 ## Let's Order Something..
@@ -22,8 +21,7 @@ __A Simpler Way to Get Morning Coffee__
 
 
 ## Choose a Store
-<img src="./drip_screenshots/find_store.png" width="120">
-<img src="./drip_screenshots/store_selected.png" width="120">
+<img src="./drip_screenshots/find_store.png" width="120"> <img src="./drip_screenshots/store_selected.png" width="120">
 
 
 ## When do you want it?
