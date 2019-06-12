@@ -5,20 +5,20 @@ __A Simpler Way to Get Morning Coffee__
 
 
 ### Welcome to Drip!
-<img src="./drip_screenshots/login">
+<img src="./drip_screenshots/login.png">
 ### Sign Up
-<img src="./drip_screenshots/sign_up">
+<img src="./drip_screenshots/sign_up.png">
 ### Choose Options
-<img src="./drip_screenshots/options">
-<img src="./drip_screenshots/options_selected">
+<img src="./drip_screenshots/options.png">
+<img src="./drip_screenshots/options_selected.png">
 ### Let's Order Something..
-<img src="./drip_screenshots/main_screen">
+<img src="./drip_screenshots/main_screen.png">
 ### Choose a Store
-<img src="./drip_screenshots/find_store">
-<img src="./drip_screenshots/store_selected">
+<img src="./drip_screenshots/find_store.png">
+<img src="./drip_screenshots/store_selected.png">
 ### When do you want it?
-<img src="./drip_screenshots/time_selection">
+<img src="./drip_screenshots/time_selection.png">
 ### Order
-<img src="./drip_screenshots/order_processing">
+<img src="./drip_screenshots/order_processing.png">
 ### Here's the Directions
-<img src="./drip_screenshots/store_directions">
+<img src="./drip_screenshots/store_directions.png">
