@@ -5,7 +5,7 @@ __A Simpler Way to Get Morning Coffee__
 
 
 ## Welcome to Drip!
-<img src="./drip_screenshots/login.png">
+<img src="./drip_screenshots/login.png" width="100">
 
 
 ## Sign Up
